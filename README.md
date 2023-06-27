@@ -21,6 +21,6 @@ If you just want to get one made, download the GERBER .zip file and send it righ
 
 ## Images
 
-![Image of soldered board](Images/Board - Soldered 1.JPG)
+![Image of soldered board](Images/Board_Soldered_1.JPG)
 
-![Image of soldered board](Images/Board - Soldered 2.JPG)
+![Image of soldered board](Images/Board_Soldered_2.JPG)
