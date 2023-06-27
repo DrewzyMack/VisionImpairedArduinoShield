@@ -1,0 +1,41 @@
+Partlist
+
+Exported from Vision Impaired Arduino Board.brd at 15/12/2022 11:41 AM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value            Package          Library  Position (mm)         Orientation
+
+JP1                       1X02             pinhead  (7.62 11.43)          R90
+JP2                       1X02             pinhead  (19.05 11.43)         R90
+JP3                       1X02             pinhead  (30.48 11.43)         R90
+JP4                       1X02             pinhead  (41.91 11.43)         R90
+JP5                       1X02             pinhead  (53.34 11.43)         R90
+JP6                       1X02             pinhead  (64.77 11.43)         R90
+JP7                       1X02             pinhead  (76.2 11.43)          R90
+JP8                       1X02             pinhead  (85.09 12.7)          R0
+JP9                       1X02             pinhead  (85.09 25.4)          R0
+JP10                      1X02             pinhead  (85.09 38.1)          R0
+JP11                      1X02             pinhead  (85.09 50.8)          R0
+JP12                      1X02             pinhead  (85.09 63.5)          R0
+JP13                      1X02             pinhead  (85.09 76.2)          R0
+JP14                      1X02             pinhead  (76.2 77.47)          R270
+JP15                      1X02             pinhead  (64.77 77.47)         R90
+JP16                      1X02             pinhead  (53.34 77.47)         R90
+JP17                      1X02             pinhead  (41.91 77.47)         R90
+JP18                      1X02             pinhead  (30.48 77.47)         R90
+JP19                      1X02             pinhead  (19.05 77.47)         R90
+JP20                      1X02             pinhead  (7.62 77.47)          R90
+JP21                      1X02             pinhead  (64.77 31.75)         R90
+JP22                      1X02             pinhead  (55.88 31.75)         R90
+JP23                      1X10             pinhead  (25.4 48.26)          R270
+JP24                      1X10             pinhead  (13.97 48.26)         R270
+JP25                      1X02             pinhead  (13.97 26.67)         R270
+JP26                      1X02             pinhead  (25.4 26.67)          R270
+JP30                      1X03             pinhead  (59.69 57.15)         R90
+JP31                      1X03             pinhead  (48.26 57.15)         R90
+JP32                      1X03             pinhead  (36.83 57.15)         R90
+S1                        B3F-40XX         adafruit (40.64 38.1)          R180
+U1       ARDUINOR3-BPLACE ARDUINOR3-BPLACE adafruit (5.08 17.78)          R0
