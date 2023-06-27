@@ -1,7 +1,7 @@
 # VisionImpairedArduinoShield
 An Arduino Shield designed for a vision impaired student in my robotics class.
 
-![Example Image of Shield](Images/Board.PG)
+![Example Image of Shield](Images/Board.JPG)
 
 ## General Info
 This was designed for a vision impaired student in my robotics class, as we decided the pin spacing on an Arduino was too close together.
