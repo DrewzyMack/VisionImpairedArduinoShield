@@ -1,4 +1,4 @@
-# VisionImpairedArduinoShield
+# Vision Impaired Arduino Shield
 An Arduino Shield designed for a vision impaired student in my robotics class.
 
 ![Example Image of Shield](Images/Board.JPG)
